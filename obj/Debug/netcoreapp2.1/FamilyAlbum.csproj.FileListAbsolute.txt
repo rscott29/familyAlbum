@@ -1,0 +1,14 @@
+/Users/rich/FamilyAlbum/FamilyAlbum/bin/Debug/netcoreapp2.1/FamilyAlbum.deps.json
+/Users/rich/FamilyAlbum/FamilyAlbum/bin/Debug/netcoreapp2.1/FamilyAlbum.runtimeconfig.json
+/Users/rich/FamilyAlbum/FamilyAlbum/bin/Debug/netcoreapp2.1/FamilyAlbum.runtimeconfig.dev.json
+/Users/rich/FamilyAlbum/FamilyAlbum/bin/Debug/netcoreapp2.1/FamilyAlbum.dll
+/Users/rich/FamilyAlbum/FamilyAlbum/bin/Debug/netcoreapp2.1/FamilyAlbum.pdb
+/Users/rich/FamilyAlbum/FamilyAlbum/obj/Debug/netcoreapp2.1/FamilyAlbum.csproj.CoreCompileInputs.cache
+/Users/rich/FamilyAlbum/FamilyAlbum/obj/Debug/netcoreapp2.1/FamilyAlbum.RazorAssemblyInfo.cache
+/Users/rich/FamilyAlbum/FamilyAlbum/obj/Debug/netcoreapp2.1/FamilyAlbum.RazorAssemblyInfo.cs
+/Users/rich/FamilyAlbum/FamilyAlbum/obj/Debug/netcoreapp2.1/FamilyAlbum.AssemblyInfoInputs.cache
+/Users/rich/FamilyAlbum/FamilyAlbum/obj/Debug/netcoreapp2.1/FamilyAlbum.AssemblyInfo.cs
+/Users/rich/FamilyAlbum/FamilyAlbum/obj/Debug/netcoreapp2.1/FamilyAlbum.RazorTargetAssemblyInfo.cache
+/Users/rich/FamilyAlbum/FamilyAlbum/obj/Debug/netcoreapp2.1/FamilyAlbum.dll
+/Users/rich/FamilyAlbum/FamilyAlbum/obj/Debug/netcoreapp2.1/FamilyAlbum.pdb
+/Users/rich/FamilyAlbum/FamilyAlbum/obj/Debug/netcoreapp2.1/FamilyAlbum.csprojAssemblyReference.cache
